@@ -2,6 +2,12 @@
 
 let enableFirebaseAnalytics = true;
 
+const discordClientIdDev = "1283039649975107584";
+const discordClientIdProd = "1217877285923979415";
+var discordClientId = discordClientIdProd;
+
+const discordLoginRedirectUrl = "https://smashkarts.io/discord-login.html";
+
 //ADS
 const AdProviderPlaywire = "Playwire";
 const AdProviderGoogleH5Games = "GoogleH5Games";
