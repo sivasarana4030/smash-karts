@@ -1,0 +1,1 @@
+No Content: https://maddox05.github.io/basic-ruffle-player/html/smash_karts/service-worker2.js
